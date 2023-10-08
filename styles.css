@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.hero-image{
+	width: 400px;
+	height: 300px;
+	object-fit: cover;
+	 margin-right: 20px;
+}
+
+p {
+  font-size: 18px; /* Font size for the paragraph */
+  margin-bottom: 10px; /* Spacing below the paragraph */
+	margin-top: 10px;
+}
+.hero-btn{
+	padding:10px 20px;
+	background-color:#ff0101;
+	color:white;
+	height:30px;
+	border-radius:5px;
+	text-decoration: none; 
+	display: inline-block;
+	padding-bottom:25px;
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
