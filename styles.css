@@ -14,7 +14,8 @@
 p {
   font-size: 18px; /* Font size for the paragraph */
   margin-bottom: 10px; /* Spacing below the paragraph */
-	margin-top: 10px;
+  margin-top: -15px;
+  
 }
 .hero-btn{
 	padding:10px 20px;
